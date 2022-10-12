@@ -586,7 +586,22 @@
 - Metaverse marketing allows brands to maximise their creativity and reach their target audience most attractively. That’s why brands are turning their faces to the metaverse for digital marketing one by one.
 - [Metaverse Marketing](https://mp.weixin.qq.com/s/qmCdAxbaWbMKVM4dcNXGmQ)
 
+# 🛡️ License
 
-## License
+This project is licensed under the MIT License - see the [`LICENSE`](LICENSE) file for details.
 
-[![License](https://img.shields.io/:license-mit-blue.svg?style=flat-square)](LICENSE)
+# 👨‍💻 Author
+### 👤 Asif Vora
+- Github: [@asifvora](https://github.com/asifvora)
+- LinkedIn: [@asif-vora](https://www.linkedin.com/in/asif-vora/)
+- Twitter: [@007_dark_shadow](https://twitter.com/007_dark_shadow)
+- Instagram: [@007_dark_shadow](https://www.instagram.com/007_dark_shadow/)
+
+# 🍰 Contributing
+
+- Please contribute using [GitHub Flow](https://guides.github.com/introduction/flow). Create a branch, add commits, and [open a pull request](https://github.com/asifvora/react-current-page-fallback/compare).
+
+- Please read [`CONTRIBUTING`](CONTRIBUTING.md) for details.
+
+# 🙏 Support
+This project needs a ⭐️  from you. Don't forget to leave a star ⭐️
